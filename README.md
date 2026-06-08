@@ -1,13 +1,6 @@
-# **💻 Mis Proyectos**
+## **[Web Escolar \- "Almafuerte"](https://tomygroi.github.io/proyectoWebEscolar/)**
 
-Bienvenido a mi portfolio de proyectos. En este espacio documento las aplicaciones y sitios web que he diseñado y desarrollado, detallando la arquitectura del código, las tecnologías utilizadas y los desafíos técnicos resueltos en cada uno de ellos.
-
-## **🏫 Proyecto 1: [Web Escolar \- "Almafuerte"](./proyectoWebEscolar/)**
-
-### **📝 Descripción del Proyecto**
-
-Desarrollé una plataforma web institucional completa para el **Colegio Técnico Secundario "Almafuerte"**. El objetivo principal fue centralizar la información clave del establecimiento, ofreciendo una experiencia de usuario fluida, moderna y adaptada a las necesidades de la comunidad educativa (alumnos, docentes y directivos).  
-**Stack Tecnológico:** HTML5, CSS3, JavaScript (Vanilla JS).
+### **✨ Stack Tecnológico:** HTML5, CSS3, JavaScript (Vanilla JS).
 
 #### **🌐 Páginas y Secciones**
 
